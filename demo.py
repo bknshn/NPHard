@@ -11,7 +11,7 @@ import time
 import scipy.io as sio
 import numpy as np
 import scipy.sparse as sp
-import Queue
+import queue
 from copy import deepcopy
 
 # import the libary for graph reduction and local search
