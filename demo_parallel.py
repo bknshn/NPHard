@@ -11,7 +11,7 @@ import time
 import scipy.io as sio
 import numpy as np
 import scipy.sparse as sp
-import Queue
+import queue
 import multiprocessing as mp
 from multiprocessing import Manager, Value, Lock
 from copy import deepcopy
